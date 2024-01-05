@@ -10,5 +10,6 @@ def change_case(input_str, case):
     return str_case
     pass
 
+
 case_change = change_case(user_input, case)
 print(case_change)

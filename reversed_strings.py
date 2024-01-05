@@ -7,6 +7,7 @@ def reverse_string(s):
     return reversed_str
     pass
 
+
 reversed_input = reverse_string(user_input)
 print(reversed_input)
 

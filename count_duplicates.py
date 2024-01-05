@@ -29,5 +29,6 @@ def count_duplicates(text):
 result_count, result_dict = count_duplicates(text)
 # 因為該函式return兩個資料出來（char_count, repeat_dict），根據對應的前後順序位置設置變數
 
+
 for char, count in result_dict.items():
     print(f"{char}: {count} 次")

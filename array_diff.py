@@ -4,5 +4,4 @@ def array_diff(a, b):
 
     print(result)
 
-
     pass

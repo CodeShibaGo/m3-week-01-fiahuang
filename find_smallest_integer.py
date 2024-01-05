@@ -12,4 +12,5 @@ def min_filter(list):
     print(min(list))
 
 
+
 min_filter(list_int)
