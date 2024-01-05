@@ -9,5 +9,6 @@ def find_capitals(word):
     return result
     pass
 
+
 result_capitals = find_capitals(word)
 print(result_capitals)

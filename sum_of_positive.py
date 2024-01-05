@@ -9,5 +9,4 @@ def positive_sum(arr):
 
     print(sum(positive_num))
 
-
 positive_sum(arr)

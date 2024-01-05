@@ -6,4 +6,5 @@ def oddEven(number):
 
 number = int(input("請輸入一個數字："))
 
+
 oddEven(number)

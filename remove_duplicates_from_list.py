@@ -7,5 +7,6 @@ def distinct(seq_input):
             seq_input = seq_input.replace(x, "")
     return seq_input
     pass
+
 result = distinct(seq_input)
 print(result)

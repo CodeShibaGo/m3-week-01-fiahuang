@@ -10,4 +10,5 @@ def categorize_new_member(data):
             print("Open")
     pass
 
+
 categorize_new_member(member)
