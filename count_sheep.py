@@ -1,5 +1,3 @@
-sheep = [True, True, True, False, True]
-
 def count_sheep(sheep):
 
     #目標：計算true的數量
@@ -10,9 +8,4 @@ def count_sheep(sheep):
     for x in sheep_list:
         if x == True:
             sleep_count +=1
-    print(sleep_count)
-
-    pass
-
-
-count_sheep(sheep)
+    return sleep_count

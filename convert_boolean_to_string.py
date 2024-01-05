@@ -1,13 +1,7 @@
-b = input("請輸入True或False：").lower()
-
 def boolean_to_string(b):
-    if b == "true":
+    if b == True:
         print("True")
-        return True
-    elif b == "false":
+        return 'True'
+    else:
         print("False")
-        return False
-    pass
-
-
-boolean_to_string(b)
+        return 'False'
